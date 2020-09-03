@@ -5,3 +5,7 @@
 ## - **In first file I have compared the efficiency of extracting the features and observed that in comparison with fully connected network the DeepLab pre-trained model has done sharp segmentation.**
 ## -In second file (segmented_Dlab.ipynb) I have just taken the foreground without the transparent screen.
 ## -In third file(with_transparentscreen.ipynb) I have extracted the forground and put it with transparent screen background.
+
+
+
+
